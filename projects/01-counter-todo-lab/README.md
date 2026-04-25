@@ -1,34 +1,54 @@
-# 01 - Counter + Todo Lab
+# 01-counter-todo-lab
 
-這是第一個入門關卡，目標是把 Vue 3 的基礎反應式、事件、清單與表單先練穩。
+This template should help get you started developing with Vue 3 in Vite.
 
-## 學習重點
+## Recommended IDE Setup
 
-- `ref`、`reactive`
-- `computed`
-- `v-model`
-- `v-if`、`v-for`
-- 元件拆分
-- 本地儲存概念
+[VS Code](https://code.visualstudio.com/) + [Vue (Official)](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
 
-## 建議完成順序
+## Recommended Browser Setup
 
-1. Stage 01：計數器與基本響應式
-2. Stage 02：Todo 清單與篩選
-3. Stage 03：本地儲存與元件拆分
+- Chromium-based browsers (Chrome, Edge, Brave, etc.):
+  - [Vue.js devtools](https://chromewebstore.google.com/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
+  - [Turn on Custom Object Formatter in Chrome DevTools](http://bit.ly/object-formatters)
+- Firefox:
+  - [Vue.js devtools](https://addons.mozilla.org/en-US/firefox/addon/vue-js-devtools/)
+  - [Turn on Custom Object Formatter in Firefox DevTools](https://fxdx.dev/firefox-devtools-custom-object-formatters/)
 
-## 專案定位
+## Type Support for `.vue` Imports in TS
 
-- 低門檻
-- 強調理解
-- 不追求花俏 UI
+TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) to make the TypeScript language service aware of `.vue` types.
 
-## 目前狀態
+## Customize configuration
 
-- 目前僅保留專案文件與階段規格
-- 答案已移到 `projects-ansers/01-counter-todo-lab/docs/answer/`
-- 實作骨架已先移除，等待下一輪重新建立
+See [Vite Configuration Reference](https://vite.dev/config/).
 
-## 開發指令
+## Project Setup
 
-這個子專案目前還沒有正式可執行的 Vue 專案骨架。
+```sh
+npm install
+```
+
+### Compile and Hot-Reload for Development
+
+```sh
+npm run dev
+```
+
+### Type-Check, Compile and Minify for Production
+
+```sh
+npm run build
+```
+
+### Run Unit Tests with [Vitest](https://vitest.dev/)
+
+```sh
+npm run test:unit
+```
+
+### Lint with [ESLint](https://eslint.org/)
+
+```sh
+npm run lint
+```
