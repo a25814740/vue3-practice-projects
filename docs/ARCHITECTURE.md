@@ -2,11 +2,11 @@
 
 ## 倉庫架構選擇
 
-這個倉庫採用 **多資料夾式 monorepo 風格**，原因很單純：
+這個倉庫採用多資料夾式 monorepo 風格，原因很直接：
 
-- 每個練習專案是獨立關卡
-- 文件可以共用，但實作可以分開
-- AI Agent 能先讀總覽，再進入個別專案
+- 每個練習專案是一個獨立關卡
+- 文件可以共用，但實作要分開
+- AI Agent 可以先讀總覽，再進入個別專案
 - 後續若要改成真正的 monorepo 工具鏈，也不用重寫整體概念
 
 ## 子專案關係
@@ -24,13 +24,11 @@
 
 1. **總覽層**：`README.md`、`TASK.md`、`PROJECT_RULES.md`、`SKILLS.md`
 2. **路線層**：`docs/LEARNING_PATH.md`、`docs/PROJECT_MAP.md`、`docs/STACK.md`
-3. **執行層**：各子專案的 `docs/STAGE_CHECKLIST.md`、`docs/ROADMAP.md`，以及獨立的 `projects-ansers/<project>/docs/answer/`
-
-這樣做的目的，是讓 AI Agent 不需要重新猜整體方向，只要沿著文件就能往下做。
+3. **執行層**：各子專案的 `docs/STAGE_CHECKLIST.md`、`docs/ROADMAP.md`，以及 `projects-ansers/<project>/stage-xx/`
 
 ## 答案文檔與正式程式碼分工
 
-- `projects-ansers/<project>/docs/answer/`：教學答案、解法思路、驗收重點
+- `projects-ansers/<project>/stage-xx/`：教學答案、解法思路、驗收重點與參考代碼
 - `src/`：正式實作程式碼
 - `docs/STAGE_CHECKLIST.md`：該 stage 要做什麼
 - `docs/ROADMAP.md`：整體進度與下一步

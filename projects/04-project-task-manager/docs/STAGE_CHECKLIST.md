@@ -18,10 +18,10 @@
 
 | Stage | 名稱 | 必做/選做 | 答案文件 |
 | --- | --- | --- | --- |
-| 01 | 模組與路由骨架 | 必做 | `projects-ansers/04-project-task-manager/docs/answer/stage-01.md` |
-| 02 | 任務與專案資料流 | 必做 | `projects-ansers/04-project-task-manager/docs/answer/stage-02.md` |
-| 03 | 共享邏輯與可重用元件 | 必做 | `projects-ansers/04-project-task-manager/docs/answer/stage-03.md` |
-| 04 | 權限與完整驗收 | 選做 | `projects-ansers/04-project-task-manager/docs/answer/stage-04.md` |
+| 01 | 模組與路由骨架 | 必做 | `projects-ansers/04-project-task-manager/stage-01/stage-01.md` |
+| 02 | 任務與專案資料流 | 必做 | `projects-ansers/04-project-task-manager/stage-02/stage-02.md` |
+| 03 | 共享邏輯與可重用元件 | 必做 | `projects-ansers/04-project-task-manager/stage-03/stage-03.md` |
+| 04 | 權限與完整驗收 | 選做 | `projects-ansers/04-project-task-manager/stage-04/stage-04.md` |
 
 ## Stage 01：模組與路由骨架
 

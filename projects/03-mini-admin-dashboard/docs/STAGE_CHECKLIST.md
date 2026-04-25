@@ -18,10 +18,10 @@
 
 | Stage | 名稱 | 必做/選做 | 答案文件 |
 | --- | --- | --- | --- |
-| 01 | Router 與版型 | 必做 | `projects-ansers/03-mini-admin-dashboard/docs/answer/stage-01.md` |
-| 02 | CRUD 主流程 | 必做 | `projects-ansers/03-mini-admin-dashboard/docs/answer/stage-02.md` |
-| 03 | Pinia 與非同步流程 | 必做 | `projects-ansers/03-mini-admin-dashboard/docs/answer/stage-03.md` |
-| 04 | 守衛與權限概念 | 選做 | `projects-ansers/03-mini-admin-dashboard/docs/answer/stage-04.md` |
+| 01 | Router 與版型 | 必做 | `projects-ansers/03-mini-admin-dashboard/stage-01/stage-01.md` |
+| 02 | CRUD 主流程 | 必做 | `projects-ansers/03-mini-admin-dashboard/stage-02/stage-02.md` |
+| 03 | Pinia 與非同步流程 | 必做 | `projects-ansers/03-mini-admin-dashboard/stage-03/stage-03.md` |
+| 04 | 守衛與權限概念 | 選做 | `projects-ansers/03-mini-admin-dashboard/stage-04/stage-04.md` |
 
 ## Stage 01：Router 與版型
 

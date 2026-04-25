@@ -8,7 +8,7 @@
 - [x] 建立 skills 總表
 - [x] 建立四個子專案骨架
 - [x] 建立各 stage checklist 與 answer 文件
-- [x] 將各專案答案移到 `projects-ansers/`
+- [x] 將各專案答案移到 `projects-ansers/<project>/stage-xx/`
 - [x] 移除 `01-counter-todo-lab` 的實作骨架與 CI
 - [ ] 下一步重新從 `01-counter-todo-lab` 的文件規格開始
 

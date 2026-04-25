@@ -18,9 +18,9 @@
 
 | Stage | 名稱 | 必做/選做 | 答案文件 |
 | --- | --- | --- | --- |
-| 01 | Counter 基礎 | 必做 | `projects-ansers/01-counter-todo-lab/docs/answer/stage-01.md` |
-| 02 | Todo 與篩選 | 必做 | `projects-ansers/01-counter-todo-lab/docs/answer/stage-02.md` |
-| 03 | 本地儲存與拆分 | 選做 | `projects-ansers/01-counter-todo-lab/docs/answer/stage-03.md` |
+| 01 | Counter 基礎 | 必做 | `projects-ansers/01-counter-todo-lab/stage-01/stage-01.md` |
+| 02 | Todo 與篩選 | 必做 | `projects-ansers/01-counter-todo-lab/stage-02/stage-02.md` |
+| 03 | 本地儲存與拆分 | 選做 | `projects-ansers/01-counter-todo-lab/stage-03/stage-03.md` |
 
 ## Stage 01：Counter 基礎
 

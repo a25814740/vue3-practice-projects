@@ -18,10 +18,10 @@
 
 | Stage | 名稱 | 必做/選做 | 答案文件 |
 | --- | --- | --- | --- |
-| 01 | 資料模型與列表 | 必做 | `projects-ansers/02-notes-habit-tracker/docs/answer/stage-01.md` |
-| 02 | 編輯與統計 | 必做 | `projects-ansers/02-notes-habit-tracker/docs/answer/stage-02.md` |
-| 03 | composables 與共享邏輯 | 必做 | `projects-ansers/02-notes-habit-tracker/docs/answer/stage-03.md` |
-| 04 | slots 與延伸優化 | 選做 | `projects-ansers/02-notes-habit-tracker/docs/answer/stage-04.md` |
+| 01 | 資料模型與列表 | 必做 | `projects-ansers/02-notes-habit-tracker/stage-01/stage-01.md` |
+| 02 | 編輯與統計 | 必做 | `projects-ansers/02-notes-habit-tracker/stage-02/stage-02.md` |
+| 03 | composables 與共享邏輯 | 必做 | `projects-ansers/02-notes-habit-tracker/stage-03/stage-03.md` |
+| 04 | slots 與延伸優化 | 選做 | `projects-ansers/02-notes-habit-tracker/stage-04/stage-04.md` |
 
 ## Stage 01：資料模型與列表
 
